@@ -15,7 +15,14 @@
 <!--<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>-->
 </p>
 
-<!--
+[![DhavalChhaylaOfficial's GitHub | Stats](https://stats.quine.sh/DhavalChhaylaOfficial/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DhavalChhaylaOfficial)
+
+
+<!--| DhavalChhaylaOfficial's GitHub Topics Over Time | DhavalChhaylaOfficial's GitHub Languages Over Time |
+|--------------------------------------------------|-----------------------------------------------------|
+| [![DhavalChhaylaOfficial's GitHub Topics Over Time](https://stats.quine.sh/DhavalChhaylaOfficial/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DhavalChhaylaOfficial) | [![DhavalChhaylaOfficial's GitHub Languages Over Time](https://stats.quine.sh/DhavalChhaylaOfficial/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DhavalChhaylaOfficial) |
+
+
 **DhavalChhaylaOfficial/DhavalChhaylaOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
