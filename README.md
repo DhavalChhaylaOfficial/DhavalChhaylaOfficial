@@ -6,16 +6,47 @@
 * passionate about keeping up with industry trends.
 * skilled communicator with exceptional listening ability.
 * excellent communication and problem-solving skills.
-     
+
+<h3 align="left">Connect with me :</h3>
 <p>
   <a href="https://www.linkedin.com/in/dhaval-chhayla/">
-    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://www.instagram.com/dhaval._26/">
-  <img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<!--<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>-->
+  <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/72b814d5-a8a1-48e1-8a74-66af56c8b181">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white"/></a>
+     <a href="https://www.credly.com/users/dhaval-chhayla">
+  <img src="https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white"/></a>
 </p>
 
+<h3 align="left">Languages :</h3>
+<div align="left">
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/> 
+  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+  <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</div>
 
+<h3 align="left">Databases :</h3>
+<div align="left">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+  <img alt="Sql Server" src ="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white"/>
+</div></br>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=DhavalChhaylaOfficial&show_icons=true&theme=dark&locale=en" alt="DhavalChhaylaOfficial" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhavalChhaylaOfficial&show_icons=true&theme=dark&locale=en&layout=compact" alt="DhavalChhaylaOfficial" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DhavalChhaylaOfficial&theme=dark" alt="DhavalChhaylaOfficial" /></p>
+  </div>
 
 
 <!--| DhavalChhaylaOfficial's GitHub Topics Over Time | DhavalChhaylaOfficial's GitHub Languages Over Time |
