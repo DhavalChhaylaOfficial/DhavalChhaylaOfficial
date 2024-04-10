@@ -15,7 +15,7 @@
 <!--<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>-->
 </p>
 
-[![DhavalChhaylaOfficial's GitHub | Stats](https://stats.quine.sh/DhavalChhaylaOfficial/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DhavalChhaylaOfficial)
+
 
 
 <!--| DhavalChhaylaOfficial's GitHub Topics Over Time | DhavalChhaylaOfficial's GitHub Languages Over Time |
