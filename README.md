@@ -1,5 +1,7 @@
 ## Hello, My Name is Dhaval 👋  <p> Working Smart to Transform Ideas into Reality
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayur22103&label=Profile%20views&color=0e75b6&style=flat" alt="DhavalChhaylaOfficial" /> </p>
+
 * result-driven IT professional.
 * expertise in developing complex systems, managing projects, and implementing innovative solutions.
 * proficient in android development, embedded systems and .net framework.
