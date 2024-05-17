@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me :</h3>
 <p>
-  <a target="_blank" href="https://www.linkedin.com/in/dhaval-chhayla/">
+  <a href="https://www.linkedin.com/in/dhaval-chhayla/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 <a target="_blank" href="https://www.instagram.com/dhaval._26/">
   <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
