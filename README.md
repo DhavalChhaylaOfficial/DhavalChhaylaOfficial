@@ -11,13 +11,13 @@
 
 <h3 align="left">Connect with me :</h3>
 <p>
-  <a href="https://www.linkedin.com/in/dhaval-chhayla/">
+  <a target="_blank" href="https://www.linkedin.com/in/dhaval-chhayla/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://www.instagram.com/dhaval._26/">
+<a target="_blank" href="https://www.instagram.com/dhaval._26/">
   <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/72b814d5-a8a1-48e1-8a74-66af56c8b181">
+<a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/72b814d5-a8a1-48e1-8a74-66af56c8b181">
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white"/></a>
-     <a href="https://www.credly.com/users/dhaval-chhayla">
+     <a target="_blank" href="https://www.credly.com/users/dhaval-chhayla">
   <img src="https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white"/></a>
 </p>
 
