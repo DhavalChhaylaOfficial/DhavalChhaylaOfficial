@@ -42,12 +42,12 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=DhavalChhaylaOfficial&show_icons=true&theme=dark&locale=en" alt="DhavalChhaylaOfficial" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhavalChhaylaOfficial&show_icons=true&theme=dark&locale=en&layout=compact" alt="DhavalChhaylaOfficial" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhavalChhaylaOfficial&show_icons=true&theme=dark&locale=en&layout=donut" alt="DhavalChhaylaOfficial" /></td>
   </tr>
 </table>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DhavalChhaylaOfficial&theme=dark" alt="DhavalChhaylaOfficial" /></p>
+<!--|<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DhavalChhaylaOfficial" alt="https://github-readme-streak-stats.herokuapp.com/?user=DhavalChhaylaOfficial" /></p>
   </div>
 
 
