@@ -46,8 +46,8 @@
   </tr>
 </table>
 
-<!--|<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DhavalChhaylaOfficial" alt="https://github-readme-streak-stats.herokuapp.com/?user=DhavalChhaylaOfficial" /></p>
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DhavalChhaylaOfficial&theme=github-dark-dimmed" alt="https://github-readme-streak-stats.herokuapp.com/?user=DhavalChhaylaOfficial" /></p>
   </div>
 
 
